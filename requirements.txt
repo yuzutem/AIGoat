@@ -36,3 +36,9 @@ pytest-asyncio>=0.23.0
 ruff>=0.4.0
 pyflakes>=2.5.0
 pre-commit>=3.7.0
+
+# Aete Yabai AI-OSS wo tsuika for Demo
+transformers==4.38.0
+vllm==0.3.0
+llama-index==0.10.0
+langflow==1.2.0
